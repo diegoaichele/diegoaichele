@@ -7,7 +7,7 @@ Right now:
 - 🌱 I’m currently learning quantum computing and Graph Neural Network
 
 
-## 🏅 Badges
+## 📌 Find Me
 
 <p align="center" style="vertical-align:middle;">
 <a href="https://twitter.com/DiegoAichele"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://www.linkedin.com/in/diego-aichele/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://medium.com/@diego_66379"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> <a href="https://www.aichele.dev"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"> </a> 
