@@ -39,3 +39,10 @@ You can click the Preview link to take a look at your changes.
 ### Bots
 
 - [Nic Chile Bot](https://t.me/NicChile_bot): Check the availability of .cl domains.
+
+
+## My Duolingo progress. Yes, I use duolingo to practice.
+<!-- duolingo -->
+
+
+
