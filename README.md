@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @diegoaichele. I'm Mechanical engineer. I'm fluent in Spanish (native), intermediate Portuguese and intermediate English.
+- 👋 Hi, I’m @diegoaichele. I'm Mechanical engineer. I'm fluent in Spanish (native), intermediate Portuguese and advanced English.
 
 - 👀 I’m interested in quantum computing, data science, machine learning and data engineering. You can reach me on Telegram: @DiegoAichele
 
