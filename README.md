@@ -3,7 +3,7 @@
 - 👀 I’m interested in quantum computing, data science, machine learning and data engineering. You can reach me on Telegram: @DiegoAichele
 
 Right now:
-- 💞 I’m looking to collaborate on @alaya-digital-solutions
+- 💞 I’m looking to collaborate on opensource repositories like @Godot and @pytorch 
 - 🌱 I’m currently learning quantum computing and Graph Neural Network
 
 
@@ -14,8 +14,7 @@ Right now:
 </p>
 
 <!---
-diegoaichele/diegoaichele is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+what are you looking for? 👀
 --->
 
 
